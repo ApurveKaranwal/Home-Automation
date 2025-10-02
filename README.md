@@ -1,4 +1,4 @@
-# 🏠 Home Automation System (Arduino Uno + NodeMCU + 4-Channel Relay + Blynk)
+# 🏠 Home Automation System
 
 This project is a **Home Automation System** that allows you to control **4 appliances** (lights, fans, etc.) remotely using **NodeMCU**, a **4-channel relay module**, and **Blynk app buttons**.  
 The Arduino Uno handles the relay switching, while the NodeMCU connects to Wi-Fi and communicates with the Blynk cloud.
